@@ -18,7 +18,7 @@ Model 2: Predict how many goals the away team scores.
 Feature Engineering: Figure out from the home team’s perspective if the game is a Win, Lose or Draw (W, L, D)
 
 
-# In order to work on the above problem, you need to do the following:
+## In order to work on the above problem, you need to do the following:
 
 Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
 Expected flow for the assessment:
@@ -35,5 +35,5 @@ Dataset
 
 The dataset and glossary to use for this project can be found here. [https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc] 
 
-# LICENSE
-https://choosealicense.com/licenses/mit/
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
