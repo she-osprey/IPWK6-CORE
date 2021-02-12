@@ -7,12 +7,12 @@ Input: Home team, Away team, Tournament type (World cup, Friendly, Other)
 
 ### Approach 1: Polynomial approach
 
-What to train given:
-Rank of home team
-Rank of away team
-Tournament type
-Model 1: Predict how many goals the home team scores.
-Model 2: Predict how many goals the away team scores.
+- What to train given:
+- Rank of home team
+- Rank of away team
+- Tournament type
+- Model 1: Predict how many goals the home team scores.
+- Model 2: Predict how many goals the away team scores.
 
 ### Approach 2: Logistic approach
 
@@ -27,9 +27,9 @@ An explanation of the ranking procedure is available here: [https://www.fifa.com
 
 Some features are available on the FIFA ranking page [https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html].
 
-Rank
-Country Abbreviation
-Total Points
+- Rank
+- Country Abbreviation
+-Total Points
 Previous Points
 Rank Change
 Average Previous Years Points
