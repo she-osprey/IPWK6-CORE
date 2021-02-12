@@ -29,40 +29,40 @@ Some features are available on the FIFA ranking page [https://www.fifa.com/fifa-
 
 - Rank
 - Country Abbreviation
--Total Points
-Previous Points
-Rank Change
-Average Previous Years Points
-Average Previous Years Points Weighted (50%)
-Average 2 Years Ago Points
-Average 2 Years Ago Points Weighted (30%)
-Average 3 Years Ago Points
-Average 3 Years Ago Points Weighted (20%)
-Confederation
-Date - date of the match
-Home_team - the name of the home team
-Away_team - the name of the away team
-Home_score - full-time home team score including extra time, not including penalty-shootouts
-Away_score - full-time away team score including extra time, not including penalty-shootouts
-Tournament - the name of the tournament
-City - the name of the city/town/administrative unit where the match was played
-Country - the name of the country where the match was played
-Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
+- Total Points
+- Previous Points
+- Rank Change
+- Average Previous Years Points
+- Average Previous Years Points Weighted (50%)
+- Average 2 Years Ago Points
+- Average 2 Years Ago Points Weighted (30%)
+- Average 3 Years Ago Points
+- Average 3 Years Ago Points Weighted (20%)
+- Confederation
+- Date - date of the match
+- Home_team - the name of the home team
+- Away_team - the name of the away team
+- Home_score - full-time home team score including extra time, not including penalty-shootouts
+- Away_score - full-time away team score including extra time, not including penalty-shootouts
+- Tournament - the name of the tournament
+- City - the name of the city/town/administrative unit where the match was played
+- Country - the name of the country where the match was played
+- Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
 ## Assessment Expectation
 In order to work on the above problem, you need to do the following:
 
-Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
-Expected flow for the assessment:
-Perform your EDA
-Perform any necessary feature engineering 
-Check of multicollinearity
-Start building the model
-Cross-validate the model
-Compute RMSE
-Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
-Perform appropriate regressions on the data including your justification
-Challenge your solution by providing insights on how you can make improvements.
+- Define the question, the metric for success, the context, experimental design taken and the appropriateness of the available data to answer the given question
+- Expected flow for the assessment:
+- Perform your EDA
+- Perform any necessary feature engineering 
+- Check of multicollinearity
+- Start building the model
+- Cross-validate the model
+- Compute RMSE
+- Create residual plots for your models, and assess their heteroscedasticity using Bartlett’s test
+- Perform appropriate regressions on the data including your justification
+- Challenge your solution by providing insights on how you can make improvements.
 
 ## Dataset
 
